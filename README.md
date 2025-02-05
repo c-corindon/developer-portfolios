@@ -198,6 +198,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Capt. Michael](https://captmichael.dev) [MERN Full Stack Developer]
 - [Carlos Dubón](https://carlosdubon.dev)
 - [Casper Iversen](https://caspertheghost.me)
+- [C-Corindon](https://github.com/c-corindon/c-corindon)
 - [Cecelia Martinez](http://ceceliacreates.com)
 - [Cemal Türkcan)](https://cemalturkcan.com)
 - [Chambrin Alexandre](https://chambrin.dev)
